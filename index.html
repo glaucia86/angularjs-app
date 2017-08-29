@@ -22,8 +22,11 @@
    
 </head>
 <body>
-    <input type="text" ng-model="name">  
-    <h2>Seja Bem-Vindo(a) {{name}}</h2>  
+    <div ng-controller="AtletaController">
+        <h1>{{ atleta.nome }}</h1>    
+        <p>{{ atleta.categoria + ', ' + atleta.pais }}</p>
+    </div>
+    
 
 
 
