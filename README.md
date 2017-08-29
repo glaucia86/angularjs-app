@@ -1,4 +1,4 @@
-# Melhores Atletas do Mundo - Angular App
+# Os Melhores Atletas do Mundo - Angular App
 
 Desenvolvimento de uma pequena app em AngularJs (v. 1.6) com intuito de rever alguns tópicos sobre o assunto.
 
@@ -50,4 +50,4 @@ Bom, agora na mesma tela do cmd, basta iniciar o server para o projeto ser execu
 npm start
 ```
 
-Agora, abre a página da aplicação em `http://localhost:3000`. E pronto a aplicação será executada de maneira local na sua máquina.
+Agora, abre a página da aplicação em `http://localhost:9000`. E pronto a aplicação será executada de maneira local na sua máquina.
