@@ -5,6 +5,7 @@ Desenvolvimento de uma pequena app em AngularJs (v. 1.6) com intuito de rever al
 ## Recursos Utilizados no Desenvolvimento:
 
 - Angular (version 1.6.5);
+- Arquitetura MVC (Model-View-Controller);
 - Visual Studio Code;
 - Node.Js;
 - NPM;
